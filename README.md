@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravindh Ram</h1>
 <h3 align="center">A passionate fullstack development from India</h3>
-<img align="right" alt="codingimg" width="400" src="![image](https://github.com/AravindhRamB/AravindhRamB/assets/159279699/6a1a59ab-ba34-4e4e-8074-f596ee006fd9)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/AravindhRamB/AravindhRamB/assets/159279699/8ca47d02-5bea-4075-aa52-18ad6ca191d6">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindhram&label=Profile%20views&color=0e75b6&style=flat" alt="aravindhram" /> </p>
 
