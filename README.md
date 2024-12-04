@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindhram&label=Profile%20views&color=0e75b6&style=flat" alt="aravindhram" /></p>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindhram" alt="aravindhram" /></a> </p>
+<img align="center" alt="coding" width="400" src="https://github.com/AravindhRamB/AravindhRamB/assets/159279699/8ca47d02-5bea-4075-aa52-18ad6ca191d6">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aravindh_luffy" target="blank"><img src="https://img.shields.io/twitter/follow/aravindh_luffy?logo=twitter&style=for-the-badge" alt="aravindh_luffy" /></a> </p>
 
